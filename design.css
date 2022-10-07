@@ -13,7 +13,7 @@ body{
 .add-inf1, .add-inf2, .add-inf3{
     display: flex;
     flex-direction: row;
-    margin-top: 100px;
+    background-color: blue;
 }
 
 .add-inf2, .add-inf3{
