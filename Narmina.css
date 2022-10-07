@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@500&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
 
 body{
     margin-left: 121px;
@@ -17,12 +17,27 @@ body{
     display: flex;
     flex-direction: row;
     margin-top: 100px;
+    width: 130px;
+    height: 32px;
 }
 
 .add-inf2, .add-inf3{
     margin-left: 25px;
 }
-
+.photo1 {
+    margin-top: 10px;
+    margin-right: 8px;
+}
+.photo2 {
+    /* margin-left: 25px; */
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.photo3 {
+    margin-left: 4px;
+    margin-right: 13px;
+    margin-top: 10px;
+}
 .str-head h1{
     width: 628px;
     font-family: 'Roboto Slab';
@@ -39,24 +54,47 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
-
+.str-head-left-hd {
+    margin-top: 29px;
+    height: 190px;
+}
 .str-head-left-tx{
-    margin-top: -55px;
+    height: 62px;
+    margin-top: -11px;
 }
 
 .add-auth-w{
-    background-color: #1E4681;
+    margin-left: 409.39px;
+    margin-top: 87.62px;
     width: 483.63px;
-    margin-left: 409px;
+    height: 200px;
+    background: #1E4681;
+    border-radius: 5px;
 }
 
 .add-auth-w-tx{
     color: white;
-
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    width: 430.59px;
+    height: 113px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    margin: 19.26px 27.02px 26.12px 26.03px;
 } 
 
 .add-auth-w-au{
     color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    width: 280.5px;
+    height: 45.64;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: right;
+    margin: 22.12px 18.52px 0.02px 184.61px;
 }
 .str-head{
     display: flex;
@@ -94,6 +132,7 @@ body{
     line-height: 101.38%;
     width: 365px;
     height: 93px;
+    margin-top: 173.38px;
 }
 .main2-pic1 {
     margin-left: 190px;
@@ -103,6 +142,8 @@ body{
     flex-direction: row;
 }
 .main2-pic2 {
+    display: flex;
+    flex-direction: column;
     margin-left: 121px;
     margin-top: 94px;
 }
@@ -141,8 +182,6 @@ body{
     line-height: 130%;
 }
 .main2-add-inf2-2 {
-    display: flex;
-    flex-direction: row;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
