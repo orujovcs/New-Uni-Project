@@ -30,7 +30,22 @@ body{
     font-size: 80px;
     line-height: 81.11px;
 }
-  
+
+.str-head-left p{
+    width: 414px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.str-head-left-tx{
+    margin-top: -55px;
+}
+
+.add-auth-w{
+    background-color: ;
+}
 .str-head{
     display: flex;
     flex-direction: row;
@@ -67,6 +82,10 @@ body{
 .photo5{
     margin-left: 175px;
     margin-top: -25px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07d166b3542f97b0271bbb5b06a2f96349899d25
 }
 .main2-pic1 {
     margin-left: 190px;
@@ -122,6 +141,7 @@ body{
 }
 .main2-add-inf3 {
     margin-left: 93px;
+<<<<<<< HEAD
     width: 150px;
 }
 .main2-add-inf3-1 {
@@ -137,4 +157,6 @@ body{
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
+=======
+>>>>>>> 07d166b3542f97b0271bbb5b06a2f96349899d25
 }
