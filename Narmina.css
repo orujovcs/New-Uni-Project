@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
 body{
     margin-left: 121px;
     margin-top: 21px;
@@ -62,26 +63,6 @@ body{
     flex-direction: row;
 }
 
-.main2-1-head h1 {
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 101.38%;
-    width: 365px;
-    height: 93px;
-}
-.main2-2 {
-    display: flex;
-    flex-direction: row;
-    width: 1172px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 150%;
-}
-
 .str-head-ph{
     display: flex;
     flex-direction: column;
@@ -103,6 +84,16 @@ body{
     font-weight: 400;
     font-size: 24px;
     line-height: 150%;
+}
+
+.main2-1-head h1 {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    width: 365px;
+    height: 93px;
 }
 .main2-pic1 {
     margin-left: 190px;
@@ -175,4 +166,15 @@ body{
     font-weight: 400;
     font-size: 18px;
     line-height: 130%;
+}
+
+.main2-2 {
+    display: flex;
+    flex-direction: row;
+    width: 1172px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
 }
