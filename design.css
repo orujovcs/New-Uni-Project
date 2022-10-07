@@ -27,3 +27,8 @@ body{
     font-size: 80px;
     line-height: 101.38%;
 }
+  
+.str-head{
+    display: flex;
+    flex-direction: rowg;
+}
