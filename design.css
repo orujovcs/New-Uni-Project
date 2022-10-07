@@ -83,7 +83,10 @@ body{
 .photo5{
     margin-left: 175px;
     margin-top: -25px;
-
+}
+.main2-2-add-info {
+    display: flex;
+    flex-direction: column;
 }
 .main2-pic1 {
     margin-left: 190px;
