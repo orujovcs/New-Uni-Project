@@ -19,15 +19,16 @@ body{
 }
 
 .add-inf2, .add-inf3{
-    margin-left: 26px;
+    margin-left: 25px;
 }
 
 .str-head h1{
+    width: 628px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 80px;
-    line-height: 101.38%;
+    line-height: 81.11px;
 }
   
 .str-head{
@@ -60,9 +61,18 @@ body{
 }
 .photo4{
     z-index: 100;
+<<<<<<< HEAD
+    margin-left: 141px;
+}
+
+.photo5{
+    margin-left: 175px;
+    margin-top: -25px;
+=======
 }
 .main2-pic1 {
     margin-left: 190px;
+<<<<<<< HEAD
 }
 .main2-3 {
     display: flex;
@@ -83,4 +93,7 @@ body{
 }
 .main2-add-inf3 {
     margin-left: 93px;
+=======
+>>>>>>> 9f75da67ff94668d7e6ff515adcabafb3d6695ff
+>>>>>>> 835e157fc4504a9e9aa3f6db481119348c249bef
 }
