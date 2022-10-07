@@ -41,11 +41,13 @@ body{
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
+    width: 365px;
+    height: 93px;
 }
 .main2-2 {
     display: flex;
     flex-direction: row;
-    width: 662px;
+    width: 1172px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -60,10 +62,16 @@ body{
 }
 .photo4{
     z-index: 100;
+<<<<<<< HEAD
     margin-left: 141px;
 }
 
 .photo5{
     margin-left: 175px;
     margin-top: -25px;
+=======
+}
+.main2-pic1 {
+    margin-left: 190px;
+>>>>>>> 9f75da67ff94668d7e6ff515adcabafb3d6695ff
 }
