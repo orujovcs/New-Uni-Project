@@ -50,3 +50,11 @@ body{
     line-height: 150%;
     color: #000000;
 }
+
+.str-head-ph{
+    display: flex;
+    flex-direction: column;
+}
+.photo4{
+    z-index: 100;
+}
