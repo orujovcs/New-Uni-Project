@@ -98,6 +98,11 @@ body{
 .main2-2-add-info {
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
 }
 .main2-pic1 {
     margin-left: 190px;
@@ -145,6 +150,8 @@ body{
     line-height: 130%;
 }
 .main2-add-inf2-2 {
+    display: flex;
+    flex-direction: row;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
