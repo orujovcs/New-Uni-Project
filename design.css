@@ -61,18 +61,15 @@ body{
 }
 .photo4{
     z-index: 100;
-<<<<<<< HEAD
     margin-left: 141px;
 }
 
 .photo5{
     margin-left: 175px;
     margin-top: -25px;
-=======
 }
 .main2-pic1 {
     margin-left: 190px;
-<<<<<<< HEAD
 }
 .main2-3 {
     display: flex;
@@ -80,20 +77,64 @@ body{
 }
 .main2-pic2 {
     margin-left: 121px;
+    margin-top: 94px;
 }
 .main2-add-inf {
     display: flex;
     flex-direction: row;
+    margin-top: 194px;
 }
 .main2-add-inf1 {
     margin-left: 132px;
+    width: 150px;
+}
+.main2-add-inf1-1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+.main2-add-inf1-2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
 }
 .main2-add-inf2 {
     margin-left: 95px;
+    width: 150px;
+}
+.main2-add-inf2-1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+.main2-add-inf2-2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
 }
 .main2-add-inf3 {
     margin-left: 93px;
-=======
->>>>>>> 9f75da67ff94668d7e6ff515adcabafb3d6695ff
->>>>>>> 835e157fc4504a9e9aa3f6db481119348c249bef
+    width: 150px;
+}
+.main2-add-inf3-1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+.main2-add-inf3-2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
 }
