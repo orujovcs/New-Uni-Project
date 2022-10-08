@@ -27,12 +27,12 @@ body{
     margin-right: 8px;
 }
 .photo2 {
-    /* margin-left: 25px; */
+    /* margin-left: 10px; */
     margin-right: 10px;
     margin-top: 10px;
 }
 .photo3 {
-    margin-left: 4px;
+    margin-left: -4px;
     margin-right: 13px;
     margin-top: 10px;
 }
@@ -58,7 +58,7 @@ body{
 }
 .str-head-left-tx{
     height: 62px;
-    margin-top: -11px;
+    margin-top: -28px;
 }
 
 .add-auth-w{
@@ -120,7 +120,10 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 150%;
+    line-height: 36px;
+    width: 662px;
+    height: 374px;
+    margin-top: -50px;
 }
 
 .main2-1-head h1 {
@@ -131,6 +134,7 @@ body{
     line-height: 101.38%;
     width: 365px;
     height: 93px;
+    /* margin-bottom: 18px; */
     margin-top: 173.38px;
 }
 .photo6 {
@@ -158,10 +162,14 @@ body{
     position: relative;
     z-index: 100;
 }
+.photo9 {
+    margin-left: 33px;
+    margin-top: -16px;
+}
 .main2-add-inf {
     display: flex;
     flex-direction: row;
-    margin-top: 164px;
+    margin-top: 146px;
 }
 .main2-add-inf1 {
     margin-left: 132px;
@@ -172,14 +180,15 @@ body{
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
-    line-height: 130%;
+    line-height: 23px;
 }
 .main2-add-inf1-2 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 130%;
+    line-height: 23px;
+    margin-top: -15px;
 }
 .main2-add-inf2 {
     margin-left: 95px;
@@ -190,14 +199,15 @@ body{
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
-    line-height: 130%;
+    line-height: 23px;
 }
 .main2-add-inf2-2 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 130%;
+    line-height: 23px;
+    margin-top: -15px;
 }
 .main2-add-inf3 {
     margin-left: 93px;
@@ -208,14 +218,15 @@ body{
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
-    line-height: 130%;
+    line-height: 23px;
 }
 .main2-add-inf3-2 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 130%;
+    line-height: 23px;
+    margin-top: -15px;
 }
 
 .main2-2 {
