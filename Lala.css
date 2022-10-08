@@ -5,7 +5,7 @@
     color: white;
     width: 1440px;
     height: 390px;
-    margin-left: -120px;
+    margin-left: -122px;
 }
 .footer-head-pic{
     width: 115px;
@@ -85,11 +85,11 @@
     margin-left: 122px;
 }
 .main7{
-    margin-left:-120px;
-    margin-top: -55px;
     background-color: #9DC9C8;
     width: 1440px;
-    height: 780px;   
+    height: 780px;
+    margin-left: -122px;   
+    margin-top: -40px;
 }
 .date{
     font-family: 'Roboto Slab';
@@ -97,17 +97,20 @@
     font-size: 55px;
     height: 66px;
     width: 908px;
+    position: absolute;
     margin-left: 122px;
-    padding-top: 179px;
+    margin-top: 179px;
 }
+
 .cost{
-    height: 32px;
-    width: 170px;
-    margin-left: 122px;
-    margin-top: 54px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 25px;
+    position: absolute;
+    height: 32px;
+    width: 170px;
+    margin-left: 122px;
+    margin-top: 299px;
 }
 .price{
     height: 181px;
@@ -115,32 +118,47 @@
     font-family:'Roboto' ;
     font-size: 80px;
     font-weight: 400;
+    position: absolute;
     margin-left: 122px;
-    margin-top: -30px;
+    margin-top: 329px;
 }
-.main7-add-inf{
-    display: flex;
-    flex-direction: row;
-}
-.main7-add-inf1{
-    margin-left:122px;
-    margin-top: -75px;
-    margin-bottom: 9px;
-}
+
 .a1{
+    position: absolute;
+    width: 294px;
+    height: 32px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 25px;
+    margin-left: 122px;
+    margin-top: 484px;
 }
-.main7-add-inf2{
-    margin-left: 70px;
-    margin-top: -75px;
-    margin-bottom: 9px;
+
+.a2{
+    position: absolute;
+width: 322px;
+height: 32px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+margin-left: 486px;
+margin-top: 484px;
+
 }
+
 .tx1, .tx2{
+    position: absolute;
     width:294px;
     height: 70px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 18px;
+    margin-top: 525px;
+}
+.tx1{
+    margin-left: 122px;
+}
+.tx2{
+    margin-left: 486px;
 }
