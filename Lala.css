@@ -1,4 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
 .footer{
     background-color: black;
     color: white;
+    width: 1440px;
+    height: 390px;
+    margin-left: -120px;
+}
+.footer-head-pic{
+    width: 115px;
+    height: 68px;
+    position: absolute;
+    margin-left: 122px;
+    margin-top: 50px;
+}
+.phone_pic{
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    margin-left: 976px;
+    margin-top: 54px;
+}
+.phone p{
+    position: absolute;
+    width: 240px;
+    height: 40px;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 1025px;
+    margin-top: 54px;
+
+}
+.message img{
+    width: 27px;
+    height: 16px;
+    position: absolute;
+    margin-left: 976px;
+    margin-top: 106px;
+}
+.message p{
+    width:269px ;
+    height: 40px;
+    position: absolute;
+    margin-left: 1025px;
+    margin-top: 102px;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 400;
+}
+.inst{
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    margin-left: 121px;
+    margin-top: 148px;
+}
+
+.fb{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin-left: 172px;
+    margin-top: 148px;
+}
+
+.vk{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin-left: 225px;
+    margin-top: 148px;
+}
+
+.wp{
+    width: 34px;
+    height: 34px;
+    margin-left: 285px;
+    margin-top: 148px;
+}
+.footer-footer{
+    position: absolute;
+    margin-top: 146px;
+    margin-left: 122px;
+}
+.main7{
+    margin-left:-120px;
+    margin-top: -55px;
+    background-color: #9DC9C8;
+    width: 1440px;
+    height: 780px;   
+}
+.date{
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 55px;
+    height: 66px;
+    width: 908px;
+    margin-left: 122px;
+    padding-top: 179px;
+}
+.cost{
+    height: 32px;
+    width: 170px;
+    margin-left: 122px;
+    margin-top: 54px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 25px;
+}
+.price{
+    height: 181px;
+    width: 481px;
+    font-family:'Roboto' ;
+    font-size: 80px;
+    font-weight: 400;
+    margin-left: 122px;
+    margin-top: -30px;
+}
+.main7-add-inf{
+    display: flex;
+    flex-direction: row;
+}
+.main7-add-inf1{
+    margin-left:122px;
+    margin-top: -75px;
+    margin-bottom: 9px;
+}
+.a1{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 25px;
+}
+.main7-add-inf2{
+    margin-left: 70px;
+    margin-top: -75px;
+    margin-bottom: 9px;
+}
+.tx1, .tx2{
+    width:294px;
+    height: 70px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
 }
