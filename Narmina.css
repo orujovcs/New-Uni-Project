@@ -4,6 +4,8 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
+    width: 1440px;
 }
 
 .add-inf{
@@ -61,7 +63,7 @@ body{
 }
 
 .add-auth-w{
-    margin-left: 409.39px;
+    margin-left: 290.39px;
     margin-top: 87.62px;
     width: 483.63px;
     height: 200px;

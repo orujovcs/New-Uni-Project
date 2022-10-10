@@ -3,7 +3,7 @@
 .footer{
     background-color: black;
     color: white;
-    width: 100vw;
+    width: 1440px;
     height: 390px;
     margin-left: -122px;
 }
@@ -86,7 +86,7 @@
 }
 .main7{
     background-color: #9DC9C8;
-    width: 100vw;
+    width: 1440px;
     height: 780px;
     margin-left: -122px;   
     margin-top: -40px;
