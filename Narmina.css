@@ -8,7 +8,7 @@ body{
     align-items: center;
 }
 .containe{
-    max-width: 1440px;
+    max-width: 1840px;
     margin: 0px auto;
 }
 
@@ -31,6 +31,7 @@ body{
 .photo1 {
     margin-top: 10px;
     margin-right: 8px;
+    width: 22%;
 }
 .photo2 {
     margin-right: 10px;
