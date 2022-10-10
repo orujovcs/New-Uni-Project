@@ -7,6 +7,10 @@ body{
     display: flex;
     align-items: center;
 }
+.containe{
+    max-width: 1440px;
+    margin: 0px auto;
+}
 
 .add-inf{
     display: flex;
