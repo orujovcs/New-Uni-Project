@@ -4,6 +4,9 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .add-inf{
