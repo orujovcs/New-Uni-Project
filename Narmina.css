@@ -4,14 +4,11 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
-<<<<<<< HEAD
     display: flex;
     align-items: center;
     justify-content: center;
-=======
     width: 100%;
     width: 1440px;
->>>>>>> 33c88e031dc250ee69f609fd2b3a75955663a02c
 }
 
 .add-inf{
