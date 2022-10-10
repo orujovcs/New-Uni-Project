@@ -4,12 +4,19 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
+<<<<<<< HEAD
+    width: 100%;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+=======
     display: flex;
     align-items: center;
 }
 .containe{
     max-width: 1840px;
     margin: 0px auto;
+>>>>>>> c88c17219f1b6ff9895d7c44d8ef2e250228fe62
 }
 
 .add-inf{
@@ -100,7 +107,6 @@ body{
     font-size: 20px;
     line-height: 26px;
     text-align: right;
-    /* margin: 22.12px 18.52px 0.02px 184.61px; */
     margin-right: 18.52px;
     margin-left: 184.61px;
     margin-top: 45px;
