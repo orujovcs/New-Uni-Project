@@ -4,9 +4,14 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
+<<<<<<< HEAD
     display: flex;
     align-items: center;
     justify-content: center;
+=======
+    width: 100%;
+    width: 1440px;
+>>>>>>> 33c88e031dc250ee69f609fd2b3a75955663a02c
 }
 
 .add-inf{
@@ -34,7 +39,7 @@ body{
     margin-top: 10px;
 }
 .photo3 {
-    margin-left: -7px;
+    margin-left: -16px;
     margin-right: 13px;
     margin-top: 10px;
 }
@@ -64,7 +69,7 @@ body{
 }
 
 .add-auth-w{
-    margin-left: 409.39px;
+    margin-left: 290.39px;
     margin-top: 87.62px;
     width: 483.63px;
     height: 200px;
