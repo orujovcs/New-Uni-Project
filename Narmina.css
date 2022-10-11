@@ -5,12 +5,18 @@ body{
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
     width: 100%;
-    width: 1440px;
+    width: 1440px; 
 }
-.containe{
-    max-width: 1840px;
-    margin: 0px auto;
+
+.main{
+    margin: auto;
+    max-width: 100%;
 }
+
+ .container{ 
+    max-width: 1271px;
+    margin: auto;
+} 
 
 .add-inf{
     display: flex;
@@ -248,4 +254,9 @@ body{
     font-weight: 400;
     font-size: 24px;
     line-height: 150%;
+}
+
+
+@media screen (max-width 375) {
+    
 }
