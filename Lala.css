@@ -1,27 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
-.footer{
+
+.footer {
     background-color: black;
     color: white;
     width: 1440px;
     height: 390px;
     margin-left: -122px;
 }
-.footer-head-pic{
+
+.footer-head-pic {
     width: 115px;
     height: 68px;
     position: absolute;
     margin-left: 122px;
     margin-top: 50px;
 }
-.phone_pic{
+
+.phone_pic {
     position: absolute;
     width: 27px;
     height: 27px;
     margin-left: 976px;
     margin-top: 54px;
 }
-.phone p{
+
+.phone p {
     position: absolute;
     width: 240px;
     height: 40px;
@@ -32,15 +36,17 @@
     margin-top: 54px;
 
 }
-.message img{
+
+.message img {
     width: 27px;
     height: 16px;
     position: absolute;
     margin-left: 976px;
     margin-top: 106px;
 }
-.message p{
-    width:269px ;
+
+.message p {
+    width: 269px;
     height: 40px;
     position: absolute;
     margin-left: 1025px;
@@ -49,7 +55,8 @@
     font-size: 25px;
     font-weight: 400;
 }
-.inst{
+
+.inst {
     width: 33px;
     height: 33px;
     position: absolute;
@@ -57,7 +64,7 @@
     margin-top: 148px;
 }
 
-.fb{
+.fb {
     position: absolute;
     width: 32px;
     height: 32px;
@@ -65,7 +72,7 @@
     margin-top: 148px;
 }
 
-.vk{
+.vk {
     position: absolute;
     width: 35px;
     height: 35px;
@@ -73,25 +80,29 @@
     margin-top: 148px;
 }
 
-.wp{
+.wp {
     width: 34px;
     height: 34px;
     margin-left: 285px;
     margin-top: 148px;
 }
-.footer-footer{
+
+.footer-footer {
     position: absolute;
     margin-top: 146px;
     margin-left: 122px;
 }
-.main7{
+
+.main7 {
     background-color: #9DC9C8;
-    width: 1440px;
+    width: 75vw;
     height: 780px;
-    margin-left: -122px;   
-    margin-top: -40px;
+    display: flex;
+    margin: 0px auto;
+
 }
-.date{
+
+.date {
     font-family: 'Roboto Slab';
     font-weight: 700;
     font-size: 55px;
@@ -102,7 +113,7 @@
     margin-top: 179px;
 }
 
-.cost{
+.cost {
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 25px;
@@ -112,10 +123,11 @@
     margin-left: 122px;
     margin-top: 299px;
 }
-.price{
+
+.price {
     height: 181px;
     width: 481px;
-    font-family:'Roboto' ;
+    font-family: 'Roboto';
     font-size: 80px;
     font-weight: 400;
     position: absolute;
@@ -123,7 +135,7 @@
     margin-top: 329px;
 }
 
-.a1{
+.a1 {
     position: absolute;
     width: 294px;
     height: 32px;
@@ -134,31 +146,34 @@
     margin-top: 484px;
 }
 
-.a2{
+.a2 {
     position: absolute;
-     width: 322px;
-     height: 32px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-margin-left: 486px;
-margin-top: 484px;
+    width: 322px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    margin-left: 486px;
+    margin-top: 484px;
 
 }
 
-.tx1, .tx2{
+.tx1,
+.tx2 {
     position: absolute;
-    width:294px;
+    width: 294px;
     height: 70px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 18px;
     margin-top: 525px;
 }
-.tx1{
+
+.tx1 {
     margin-left: 122px;
 }
-.tx2{
+
+.tx2 {
     margin-left: 486px;
 }
