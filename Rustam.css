@@ -1,19 +1,6 @@
-.main3 h1 {
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 56px;
-    width: 667px;
-    height: 93px;
-    margin-top: 162px;
-    
-}
-.main3-add-inf {
-    display: flex;
-    flex-direction: row;
-    margin-top: 89px;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+
 .main3-add-inf1-1 {
     width: 150px;
     height: 39px;
@@ -24,6 +11,22 @@
     line-height: 32px;
     color: #1E4681;
 }
+.main3-add-inf {
+    display: flex;
+    flex-direction: row;
+    margin-top: 89px;
+}
+.main3 h1 {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 56px;
+    width: 667px;
+    height: 93px;
+    margin-top: 162px;
+}
+
 .main3-add-inf1-2 {
     width: 223px;
     height: 39px;
@@ -101,3 +104,4 @@
     font-size: 24px;
     line-height: 36px;
 }
+

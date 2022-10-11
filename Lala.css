@@ -4,29 +4,25 @@
 .footer {
     background-color: black;
     color: white;
-    width: 1440px;
+    /* max-width: 1440px; */
+    /* margin:auto; */
     height: 390px;
-    margin-left: -122px;
 }
 
 .footer-head-pic {
     width: 115px;
     height: 68px;
-    position: absolute;
-    margin-left: 122px;
     margin-top: 50px;
 }
-
-.phone_pic {
-    position: absolute;
+.phone_pic{
+     
     width: 27px;
     height: 27px;
     margin-left: 976px;
     margin-top: 54px;
 }
-
-.phone p {
-    position: absolute;
+.phone p{
+     
     width: 240px;
     height: 40px;
     font-family: 'Roboto';
@@ -40,7 +36,7 @@
 .message img {
     width: 27px;
     height: 16px;
-    position: absolute;
+     
     margin-left: 976px;
     margin-top: 106px;
 }
@@ -48,7 +44,7 @@
 .message p {
     width: 269px;
     height: 40px;
-    position: absolute;
+     
     margin-left: 1025px;
     margin-top: 102px;
     font-family: 'Roboto';
@@ -59,21 +55,21 @@
 .inst {
     width: 33px;
     height: 33px;
-    position: absolute;
+     
     margin-left: 121px;
     margin-top: 148px;
 }
 
-.fb {
-    position: absolute;
+.fb{
+     
     width: 32px;
     height: 32px;
     margin-left: 172px;
     margin-top: 148px;
 }
 
-.vk {
-    position: absolute;
+.vk{
+     
     width: 35px;
     height: 35px;
     margin-left: 225px;
@@ -86,9 +82,8 @@
     margin-left: 285px;
     margin-top: 148px;
 }
-
-.footer-footer {
-    position: absolute;
+.footer-footer{
+     
     margin-top: 146px;
     margin-left: 122px;
 }
@@ -108,7 +103,7 @@
     font-size: 55px;
     height: 66px;
     width: 908px;
-    position: absolute;
+     
     margin-left: 122px;
     margin-top: 179px;
 }
@@ -117,7 +112,7 @@
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 25px;
-    position: absolute;
+     
     height: 32px;
     width: 170px;
     margin-left: 122px;
@@ -130,13 +125,13 @@
     font-family: 'Roboto';
     font-size: 80px;
     font-weight: 400;
-    position: absolute;
+     
     margin-left: 122px;
     margin-top: 329px;
 }
 
-.a1 {
-    position: absolute;
+.a1{
+     
     width: 294px;
     height: 32px;
     font-family: 'Roboto';
@@ -146,23 +141,22 @@
     margin-top: 484px;
 }
 
-.a2 {
-    position: absolute;
-    width: 322px;
-    height: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    margin-left: 486px;
-    margin-top: 484px;
+.a2{
+     
+width: 322px;
+height: 32px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+margin-left: 486px;
+margin-top: 484px;
 
 }
 
-.tx1,
-.tx2 {
-    position: absolute;
-    width: 294px;
+.tx1, .tx2{
+     
+    width:294px;
     height: 70px;
     font-family: 'Roboto';
     font-weight: 400;

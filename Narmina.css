@@ -4,14 +4,19 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
-    width: 1440px;
+    width: 100%;
+    width: 1440px; 
 }
 
-
-.containe{
-    max-width: 1440px;
-    margin: 0px auto;
+.main{
+    margin: auto;
+    max-width: 100%;
 }
+
+ .container{ 
+    max-width: 1271px;
+    margin: auto;
+} 
 
 .add-inf{
     display: flex;
@@ -32,6 +37,7 @@ body{
 .photo1 {
     margin-top: 10px;
     margin-right: 8px;
+    width: 22%;
 }
 .photo2 {
     margin-right: 10px;
@@ -100,7 +106,6 @@ body{
     font-size: 20px;
     line-height: 26px;
     text-align: right;
-    /* margin: 22.12px 18.52px 0.02px 184.61px; */
     margin-right: 18.52px;
     margin-left: 184.61px;
     margin-top: 45px;
@@ -249,4 +254,9 @@ body{
     font-weight: 400;
     font-size: 24px;
     line-height: 150%;
+}
+
+
+@media screen (max-width 375) {
+    
 }
