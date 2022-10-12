@@ -237,5 +237,7 @@ body{
         display: flex;
         flex-direction: column;
     }
-    
+    .photo4 {
+        argin-top: -15px;
+    }
 }
