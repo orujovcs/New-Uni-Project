@@ -4,19 +4,12 @@ body{
     margin-left: 121px;
     margin-top: 21px;
     font-family: 'Roboto', sans-serif;
-<<<<<<< HEAD
-    width: 100%;
-    width: 1440px;
-    display: flex;
-    justify-content: center;
-=======
     display: flex;
     align-items: center;
 }
 .containe{
     max-width: 1440px;
     margin: 0px auto;
->>>>>>> c88c17219f1b6ff9895d7c44d8ef2e250228fe62
 }
 
 .add-inf{
