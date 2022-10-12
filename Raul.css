@@ -158,6 +158,13 @@
         background-color: white;
     }
 
+        
+    .main6{
+        width: 2300px;
+        height: 780px;
+    }
+    
+
 }
 
 @media (max-device-width: 375px) {

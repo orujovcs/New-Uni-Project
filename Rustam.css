@@ -66,3 +66,15 @@
     font-size: 26px;
     line-height: 36px;
 }
+
+@media screen and (max-device-width: 835px) {
+    .main3{
+        
+    }
+}
+
+@media screen and (max-device-width: 375px){
+    .main3{
+        margin-top: 0;
+    }
+}
