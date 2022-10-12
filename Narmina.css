@@ -1,43 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap');
 
 body{
-    margin-left: 121px;
-    margin-top: 21px;
     font-family: 'Roboto', sans-serif;
-    width: 100%;
-    width: 1440px; 
-}
-
-.main{
-    margin: auto;
-    max-width: 100%;
 }
 
  .container{ 
-    max-width: 1271px;
+    max-width: 1440px;
     margin: auto;
+    margin-left: 170px;
 } 
+
+.img-head{
+    margin-left: 37px;
+}
 
 .add-inf{
     display: flex;
     flex-direction: row;
+    margin-left: 37px;
+    margin-top: 100px;
+}
+
+.inf1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    margin-top: -8px;
 }
 
 .add-inf1, .add-inf2, .add-inf3{
     display: flex;
     flex-direction: row;
-    margin-top: 100px;
-    width: 130px;
+    margin-right: 25px;
+    width: 150px;
     height: 32px;
 }
 
-.add-inf2, .add-inf3{
-    margin-left: 25px;
-}
 .photo1 {
     margin-top: 10px;
     margin-right: 8px;
-    width: 22%;
+    width: 21px;
 }
 .photo2 {
     margin-right: 10px;
@@ -48,36 +52,44 @@ body{
     margin-right: 13px;
     margin-top: 10px;
 }
+.str-head{
+    margin-left: 37px;
+    display: flex;
+    flex-direction: row;
+}
+
+.str-head-left-hd{
+    width: 850px;
+}
+
 .str-head h1{
-    width: 628px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
-    font-size: 80px;
-    line-height: 81.11px;
+    font-size: 90px;
+    line-height: 101.38%;   
+}
+
+.str-head-left-tx{
+    width: 530px;
 }
 
 .str-head-left p{
-    width: 414px;
     font-family: 'Roboto';
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-}
-.str-head-left-hd {
-    margin-top: 29px;
-    height: 190px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 150%;
 }
 .str-head-left-tx{
     height: 62px;
-    margin-top: -28px;
+    margin-top: -45px;
 }
 
 .add-auth-w{
-    margin-left: 290.39px;
+    margin-left: 400px;
     margin-top: 87.62px;
-    width: 483.63px;
-    height: 200px;
+    width: 550px;
+    height: 250px;
     background: #1E4681;
     border-radius: 5px;
 }
@@ -86,33 +98,25 @@ body{
     color: white;
     font-family: 'Roboto Slab';
     font-style: normal;
-    width: 430.59px;
+    width: 500.59px;
     height: 113px;
     font-weight: 400;
-    font-size: 25px;
-    line-height: 32px;
+    font-size: 28px;
+    line-height: 130%;
     padding-top: 1px;
-    margin-right: 27.02px;
-    margin-left: 26.03px;
+    margin-right: 27px;
+    margin-left: 26px;
 } 
 
 .add-auth-w-au{
     color: white;
     font-family: 'Roboto';
     font-style: normal;
-    width: 280.5px;
-    height: 45.64;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 24px;
     line-height: 26px;
     text-align: right;
-    margin-right: 18.52px;
-    margin-left: 184.61px;
-    margin-top: 45px;
-}
-.str-head{
-    display: flex;
-    flex-direction: row;
+    margin: 85px 19px 0px 185px;
 }
 
 .str-head-ph{
@@ -123,126 +127,14 @@ body{
     margin-top: 4px;
     z-index: 100;
     margin-left: 141px;
+    width: 400px;
 }
-
+.pic{
+    width: 100%;
+}
 .photo5{
     margin-left: 175px;
     margin-top: -25px;
-}
-.main2-2-add-info {
-    display: flex;
-    flex-direction: column;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 36px;
-    width: 662px;
-    height: 374px;
-    margin-top: -50px;
-}
-
-.main2-1-head h1 {
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 101.38%;
-    width: 365px;
-    height: 93px;
-    /* margin-bottom: 18px; */
-    margin-top: 173.38px;
-}
-.photo6 {
-    margin-top: 42px;
-    margin-left: 190px;
-    position: relative;
-    z-index: 100;
-}
-.photo7 {
-    margin-left: 164px;
-    margin-top: -40px;
-}
-.main2-3 {
-    display: flex;
-    flex-direction: row;
-}
-.main2-pic2 {
-    display: flex;
-    flex-direction: column;
-    /* margin-left: 121px; */
-    /* margin-top: 94px; */
-}
-.photo8 {
-    margin-top: 94px;
-    position: relative;
-    z-index: 100;
-}
-.photo9 {
-    margin-left: 33px;
-    margin-top: -16px;
-}
-.main2-add-inf {
-    display: flex;
-    flex-direction: row;
-    margin-top: 146px;
-}
-.main2-add-inf1 {
-    margin-left: 132px;
-    width: 150px;
-}
-.main2-add-inf1-1 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 25px;
-    line-height: 23px;
-}
-.main2-add-inf1-2 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23px;
-    margin-top: -15px;
-}
-.main2-add-inf2 {
-    margin-left: 95px;
-    width: 150px;
-}
-.main2-add-inf2-1 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 25px;
-    line-height: 23px;
-}
-.main2-add-inf2-2 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23px;
-    margin-top: -15px;
-}
-.main2-add-inf3 {
-    margin-left: 93px;
-    width: 150px;
-}
-.main2-add-inf3-1 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 25px;
-    line-height: 23px;
-}
-.main2-add-inf3-2 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23px;
-    margin-top: -15px;
 }
 
 .main2-2 {
@@ -252,6 +144,98 @@ body{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 27px;
     line-height: 150%;
+}
+
+.main2{
+    margin-left: 37px;
+}
+.main2-1-head h1 {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    width: 365px;
+    height: 93px;
+    margin-top: 174px;
+}
+
+.main2-2-add-info {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 150%;
+    margin-top: -50px;
+}
+.main2-2-add-info-1{
+    width: 750px;
+}
+.photo6 {
+    margin-top: -20px;
+    margin-left: 300px;
+    position: relative;
+    z-index: 1;
+    width: 400px;
+}
+.photo7 {
+    margin-left: 240px;
+    margin-top: -40px;
+    width: 500px;
+}
+.main2-3 {
+    display: flex;
+    flex-direction: row;
+}
+.main2-pic2 {
+    display: flex;
+    flex-direction: column;
+}
+.photo8 {
+    margin-top: 94px;
+    position: relative;
+    z-index: 100;
+    width: 320px;
+}
+.photo9 {
+    margin-left: 33px;
+    margin-top: -25px;
+    width: 280px;
+}
+.main2-add-inf {
+    display: flex;
+    flex-direction: row;
+    margin-top: 170px;
+}
+.main2-add-inf1 {
+    margin-left: 132px;
+    width: 150px;
+}
+.main2-add-inf1-1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 23px;
+}
+.main2-add-inf1-2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: -15px;
+}
+
+
+@media screen and (max-device-width: 375px) {
+    .str-head{
+        display: flex;
+        flex-direction: column;
+    }
+    
 }
