@@ -241,6 +241,9 @@ body{
         width: 500px;
         height: 40px; */
     }
+    .inf1p {
+        font-size: 20px;
+    }
     .photo1, .photo2, .photo3 {
         width: 25px;
     }
