@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
  .container{ 
@@ -12,6 +13,7 @@ body{
 
 .img-head{
     margin-left: 37px;
+    width: 150px;
 }
 
 .add-inf{
@@ -232,12 +234,102 @@ body{
 }
 
 
+@media screen and (max-device-width: 834px) {
+    .img-head {
+        width: 170px;
+        margin-top: 40px;
+    }
+    .inf1p {
+        font-size: 20px;
+        height: 20px;
+    }
+    .photo1, .photo2, .photo3 {
+        width: 25px;
+    }
+    .photo4 {
+        width: 350px;
+    }
+    .inf1 {
+        font-size: 20px;
+    }
+    .str-head-left {
+        margin-top: -10px;
+    }
+    .str-head-left-tx {
+        margin-top: -12px;
+    }
+    .add-auth-w {
+        width: 600px;
+    }
+    .photo6 {
+        width: 370px;
+    }
+    .photo7 {
+        width: 200px;
+    }
+    .main2-3 {
+        margin-top: -35px;
+    }
+    .photo8 {
+        width: 250px;
+    }
+    .photo9 {
+        width: 180px;
+    }
+    .main2-add-inf {
+        margin-left: 15px;
+    }
+    .main2-add-inf1-1 {
+        font-weight: 700;
+        font-size: 32px;
+    }
+    .main2-add-inf1-2 {
+        font-weight: 400;
+        font-size: 18px;
+    }
+}
 @media screen and (max-device-width: 375px) {
-    .str-head{
+    .main1, .main2 {
+        width: 375px;
+    }
+    .img-head {
+        width: 220px;
+        margin-top: 165px;
+    }
+    .add-inf {
+        width: 100%;
+    }
+    .add-inf1, .add-inf2, .add-inf3 {
+
+    }
+    .str-head {
         display: flex;
         flex-direction: column;
     }
-    .photo4 {
-        argin-top: -15px;
+    .str-head-ph {
+        margin-left: 200px;
     }
-}
+    .add-auth-w {
+        margin-left: 0px;
+    }
+    .main2-2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .main2-2-add-info {
+        width: 835px;
+        font-size: 25px;
+    }
+    .main2-pic1 {
+        margin-left: 20px;
+    }
+    .main2-pic2 {
+        display: none;
+    }
+    .main2-add-inf {
+        display: flex;
+        flex-wrap: wrap;
+        /* margin-left: -90px; */
+        /* align-items: flex-start; */
+    }
+}   
