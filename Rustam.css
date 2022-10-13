@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 
-.main3{
+.main3, .main4{
     margin-top: 178px;
+    margin-left: 37px;
 }
 
 .main3 h1 {

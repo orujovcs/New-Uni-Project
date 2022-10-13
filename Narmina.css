@@ -2,13 +2,14 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    margin: 0;
+    margin-bottom: 0;
 }
 
  .container{ 
-    max-width: 1440px;
-    margin: auto;
-    margin-left: 170px;
+    margin-top: 60px;
+    max-width: 1520px;
+    height: 6332px;
+    margin: 0px auto;
 } 
 
 .img-head{

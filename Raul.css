@@ -1,8 +1,9 @@
 .main5 {
     margin-top: 203px;
-    margin-left: -40px;
-    width: 1600px;
+    margin-left: 37px;
+    width: 1800px;
 }
+
 .main5-head{
     width: 905px;
     height: 93px;
@@ -15,12 +16,12 @@
 .main5-blocks{
     display: flex;
     flex-wrap: wrap;
-    margin-left: -74px;
+    margin-left: -130px;
 }
 
 .block{
     width: 25vw;
-    height: 360px;
+    height: 35vh;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
     border-radius: 40px;
     margin: 95px 18px -44px 37px;
@@ -28,9 +29,9 @@
 
 .bl1-inf1{
     width: 420px;
-    height: 39px;
+    height: 40px;
     margin-top: -20px;
-    margin-left: 14px;
+    margin-left: 25px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -41,7 +42,7 @@
 .bl1-inf2{
     width: 365px;
     height: 63px;
-    margin-left: 14px;
+    margin-left: 25px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -56,13 +57,13 @@
     margin-top: 121px;
     margin-left: -230px;
     background-color: #EFEFEF;
-    width: 1955px;
+    width: 1942px;
     height: 780px;
 }
 
 
 .main6head{
-    margin-left: 191px;
+    margin-left: 267px;
     padding-top: 41px;
     width: 987px;
     height: 93px;
@@ -75,7 +76,7 @@
 
 .main6-block{
     margin-top: 80px;
-    margin-left: 192px;
+    margin-left: 267px;
     width: 900px;
     background-color: white;
     height: 451px;

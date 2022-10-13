@@ -3,12 +3,14 @@
 .main7{
     
     padding-top: 100px;
-    padding-left: 191px;
-    margin-top: -16px;
-    margin-left: -231px;
-    width: 1765px;
+    margin-left: -230px;
+    width: 1942px;
     height: 660px;
     background: #9DC9C8;
+}
+
+.main7tx{
+    margin-left: 269px;z
 }
 
 .date{
@@ -69,7 +71,7 @@
 .footer {
     margin-left: -230px;
     display: flex;
-    width: 1955px;
+    width: 1942px;
     background-color: black;
     color: white;
     height: 390px;
@@ -77,7 +79,10 @@
 
 .f-contain{
     padding-top: 50px;
-    margin-left: 200px;
+    margin-left: 269px;
+}
+.message{
+    margin-top: -25px;
 }
 .footer-head, .phone, .message{
     display: flex;
@@ -97,8 +102,12 @@
     line-height: 101.38%;
 }
 
+.fpic{
+    margin-right: 10px;
+}
+
 .footer-main{
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 .footer-footer{
