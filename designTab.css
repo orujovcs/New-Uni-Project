@@ -1,0 +1,10 @@
+@media screen and (max-width: 1279px) and (min-width: 992px){
+    .container{
+        margin: 0 auto;
+    }
+    .header, .main1, .main2, .main3, .main4, .main5{
+        padding-left: 8vw;
+        padding-right: 5.9vw;
+        padding-top: 2vw;
+    }   
+}
