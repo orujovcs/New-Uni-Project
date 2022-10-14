@@ -376,8 +376,7 @@
         background: #9DC9C8;
         padding-left: 5vw;
         padding-top: 7vw;
-        /* padding-bottom: 8vw; */
-        height:  50%;
+        padding-bottom: 8vw;
     }
     .dat{
         font-family: 'Roboto Slab';
@@ -427,10 +426,8 @@
     /* ------------------------FOOTER------------------------ */
 
     .footer{
-        margin-top: 10vw;
-        margin-left: -8vw;
         background-color: black;
-        padding-left: 8vw;
+        padding-left: 5vw;
         color: white;
     }
     .footer-head{
@@ -445,9 +442,6 @@
     }
     .footer-head-con{
         margin-left: 60vw;
-    }
-    .fpic{
-        margin-right: 0.5vw;
     }
     .footer-head-con p{
         margin-left: 1vw;

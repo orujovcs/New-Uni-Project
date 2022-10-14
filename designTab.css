@@ -7,7 +7,7 @@
         padding-right: 5.9vw;
         padding-top: 2vw;
     }   
-    
+
     .main1{
         margin-top: 1vw;
     }
@@ -103,6 +103,7 @@
         line-height: 130%;        
         text-align: right;
     }
+    /* MAIN2------------------------------------------------------------------------------ */
     .main2{
         margin-top: 12vw;
     }
@@ -185,6 +186,8 @@
         line-height: 130%;
     }
 
+    /* ---------------------MAIN3--------------------------------- */
+
     .main3{
         margin-top: 11.25vw;
     }
@@ -221,6 +224,7 @@
         font-size: 15px;
         line-height: 130%;
     }
+/* -----------------------MAIN4----------------------------- */
     .main4{
         margin-top: 9.5vw;
     }
@@ -241,6 +245,7 @@
         font-size: 18px;
         line-height: 150%;
     }
+    /* -----------------MAIN5---------------------------------- */
     .main5{
         margin-top: 11.10vw;
     }
@@ -288,6 +293,7 @@
         line-height: 130%;
     }
 
+    /* -----------------MAIN6------------------ */
     .main6{
         background: #EFEFEF;
         margin-top: 6.5vw;
@@ -341,6 +347,7 @@
     .main6-bl2-pic{
         margin-top: 1.5vw;
     }
+    /* --------------------MAIN7-------------------------------- */
     .main7{
         background: #9DC9C8;
         padding-left: 8vw;
@@ -392,6 +399,8 @@
         font-size: 15px;
         line-height: 101.38%;   
     }
+    /* ------------------------FOOTER------------------------ */
+
     .footer{
         background-color: black;
         padding-left: 8vw;
@@ -436,3 +445,4 @@
         line-height: 101.38%;   
     }
 }
+
