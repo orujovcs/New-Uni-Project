@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic{
+    width: 100%;
+}
+.pic1{
+    width: 100%;
+}
+
+.container{
+    background-color: white;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 1280px) {
+    .photo1, .photo2, .photo3{
+        width: 1.7vw;
+    }
+    .header, .main1, .main2, .main3, .main4, .main5{
+        padding-left: 5.9vw;
+        padding-right: 5.9vw;
+        padding-top: 1.68vh;
+    }   
+
+    .main1{
+        margin-top: 6.67vh;
+    }
+
+    .add-inf, .add-inf1{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .add-inf1{
+        margin-right: 1.74vw;
+    }
+
+    .inf1{
+        margin-top: 0.2vh;
+        margin-left: 0.5vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .main1-inf{
+        margin-top: 0.3vh;
+    }
+
+    .str-head{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .str-head-left-hd{
+        margin-top: 2vw;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 90px;
+        width: 43.6vw;
+    }
+
+    .str-head-left-tx{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        margin-top: 2vh;
+        width: 28.75vw;
+    }
+
+    .str-head-ph{
+        width: 21.12vw;
+        margin-left: 12vw;
+    }
+    .photo4{
+        position: relative;
+        z-index: 1;
+    }
+    .photo5{
+        margin-top: -30px;
+    }
+
+    .add-auth-w{
+        margin-left: 22.57vw;
+        margin-top: 6.12vw;
+        background: #1E4681;
+        border-radius: 5px;
+        width: 33.55vw;font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 130%;
+    }
+
+    .add-auth-w-tx{
+        padding-top: 1.5vw;
+        width: 30vw;
+        margin: 0 auto;
+        color: white;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 130%;
+    }
+    .add-auth-w-au{
+        padding: 1.5vw;
+        color: white;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 130%;        
+        text-align: right;
+    }
+    /* MAIN2------------------------------------------------------------------------------ */
+    .main2{
+        margin-top: 12vw;
+    }
+
+    .main2-1-head{
+        width: 29.34vw;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 101.38%;
+    }
+
+    .main2-2{
+        margin-top: 4.5vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .main2-2-add-info{
+        width: 46vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 150%;
+    }
+    .main2-pic1{
+        width: 22vw;
+        margin-left: 15vw;
+    }
+
+    .main2-pic2{
+        width: 16.12vw
+    }
+    .photo6{
+        position: relative;
+        z-index: 1;
+    }
+    .photo7{
+        margin-top: -30px;
+    }
+
+    .photo8{
+        position: relative;
+        z-index: 1;
+    }
+    .photo9{
+        margin-top: -30px;
+    }
+    .main2-3{
+        margin-top: 9vw;
+    }
+    .main2-3, .main2-add-inf{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .main2-add-inf{
+        margin-top: 5vw;
+        margin-left: 9.2vw;
+    }
+
+    .main2-add-inf1{
+        width: 10.4vw;
+        margin-right: 6.6vw;
+    }
+
+    .main2-add-inf1-1{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+    }
+    .main2-add-inf1-2{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 130%;
+    }
+
+    /* ---------------------MAIN3--------------------------------- */
+
+    .main3{
+        margin-top: 11.25vw;
+    }
+
+    .main3-head{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 6vw;
+        width: 46.3vw;
+    }
+    .main3-add-inf{
+        margin-top: 6.2vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .main3-add-inf1{
+        margin-right: 8.5vw;
+        width: 15.6vw;
+    }
+    .main3-add-inf1-1{
+        color: #1E4681;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+    }
+    .main3-add-inf1-2{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 130%;
+    }
+/* -----------------------MAIN4----------------------------- */
+    .main4{
+        margin-top: 9.5vw;
+    }
+    .main4-head{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 101.38%;
+    }
+    .main4-add-inf{
+        margin-top: 4.5vw;
+        width: 46vw;
+        margin-left: 30px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 150%;
+    }
+    /* -----------------MAIN5---------------------------------- */
+    .main5{
+        margin-top: 11.10vw;
+    }
+
+    .main5-head{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 101.38%;
+    }
+
+    .main5-blocks{
+        margin-top: 6.6vw;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .block{
+        width: 26vw;
+        height: 24vw;
+        margin-right: 1vw;
+        margin-left: 1vw;
+        margin-bottom: 2vw;
+        background: #FFFFFF;
+        box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+        border-radius: 38px;
+    }
+    .bl1-inf1{
+        width: 23vw;
+        margin-top: 1vw;
+        margin-left: 1.4vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 130%;
+    }
+    .bl1-inf2{
+        margin-top: 8%;
+        margin-left: 1.4vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 130%;
+    }
+
+    /* -----------------MAIN6------------------ */
+    .main6{
+        background: #EFEFEF;
+        margin-top: 6.5vw;
+        padding-bottom: 5vw;
+    }
+    .main6head, .main6-block{
+        margin-left: 5vw;
+    }
+    .main6head{
+        width: 68.5vw;
+        padding-top: 5vw;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 6vw;
+    }
+    .main6-block{
+        background-color: white;
+        width: 55vw;
+        margin-top: 4vw;
+        padding-bottom: 2vw;
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 30px;        
+    }
+    .main6-tx{
+        padding-top: 2vw;
+        margin: 3.2vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 150%;
+    }
+    .main6-block2{
+        display: flex;
+        flex-direction: row;
+        margin-left: 2vw;
+    }
+    .main6-bl2-tx{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 101.38%;
+    }
+    .main6-block2-1{
+        margin-top: 2vw;
+        margin-left: 2vw;
+    }
+    .main6-bl2-pic{
+        margin-top: 1.5vw;
+    }
+    /* --------------------MAIN7-------------------------------- */
+    .main7{
+        background: #9DC9C8;
+        padding-left: 5vw;
+        padding-top: 7vw;
+        padding-bottom: 8vw;
+    }
+    .dat{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 6vw;       
+    }
+    .cos{
+        margin-top: 3.75vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 101.38%;
+    }
+    .pr{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 80px;
+        line-height: 101.38%;
+    }
+    .main7-add-inf{
+        margin-top: 5.2vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .main7-add-inf1{
+        width: 15.5vw;
+        margin-right: 4.8vw;
+    }
+    .a{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 3vw;
+    }
+    .tx{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 101.38%;   
+    }
+    /* ------------------------FOOTER------------------------ */
+
+    .footer{
+        background-color: black;
+        padding-left: 5vw;
+        color: white;
+    }
+    .footer-head{
+        padding-top: 3.5vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .phone, .message{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 1vw;
+    }
+    .footer-head-con{
+        margin-left: 60vw;
+    }
+    .footer-head-con p{
+        margin-left: 1vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 101.38%;
+    }
+    .footer-main{
+        margin-top: 1vw;
+    }
+    .icon{
+        margin-right: 0.7vw;
+    }
+    .footer-footer{
+        margin-top: 5vw;
+        padding-bottom: 3vw;
+    }
+    .footer-footer p{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 101.38%;   
+    }
+}
